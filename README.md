@@ -21,7 +21,7 @@
 ### < > Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,aws,cpp,androidstudio,java,python,html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,figma,photoshop,canva,linux,windows,tailwind,chakra,postgresql,typescript,kotlin,swift,docker,kubernetes,graphql,redux,nextjs,adobeillustrator,bash" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,aws,cpp,androidstudio,java,python,html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,figma,photoshop,linux,windows,tailwind,postgresql,typescript,kotlin,swift,docker,kubernetes,graphql,redux,nextjs,bash" />
 </p>
 
 
