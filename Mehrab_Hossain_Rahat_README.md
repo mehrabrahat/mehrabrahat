@@ -73,7 +73,6 @@
 <p align="center">
   <img src="https://github.com/mehrabrahat/mehrabrahat/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 ---
 
 ### 💬 Quote to Remember
