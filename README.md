@@ -21,19 +21,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,python,html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,figma,linux,windows" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehrabrahat&show_icons=true&theme=tokyonight" alt="Mehrab's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrabrahat&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabrahat&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,aws,androidstudio,java,python,html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,figma,linux,windows" />
 </p>
 
 ---
