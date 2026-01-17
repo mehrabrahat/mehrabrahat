@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi there 👋, I'm Mehrab Hossain Rahat</h1>
-<h3 align="center">🎓 Software Engineering Student | 📱 Flutter & Mobile App Developer | 💻 Tech Enthusiast</h3>
+<h3 align="center">🎓 Software Engineering Student | 💻 Tech Enthusiast</h3>
 
 ---
 
